@@ -42,6 +42,9 @@ Everything is case sensitive except for booleans
 Installation:
 
 To run locally download
+
 mvn clean install
+
 mvn package
+
 java -jar target/gmbackend-0.0.1-SNAPSHOT.jar
